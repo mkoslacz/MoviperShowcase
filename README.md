@@ -1,6 +1,6 @@
 # [Moviper](https://github.com/mkoslacz/Moviper) Showcase
 
-This is a sample app in [Kotlin](https://kotlinlang.org/) created during the writing the series of blog posts showcasing the usage of [Moviper - A Mosby based VIPER library for Android](https://github.com/mkoslacz/Moviper). For more info refer to [the mentioned blog series](http://mateuszkoslacz.com). 
+This is a sample app in [Kotlin](https://kotlinlang.org/) created during the writing the series of blog posts showcasing the usage of [Moviper - A Mosby based VIPER library for Android](https://github.com/mkoslacz/Moviper). For more info refer to [the first blog post about Moviper](http://mateuszkoslacz.com/moviper-the-android-viper-library/). 
 
 ## License
 ```
